@@ -1,5 +1,5 @@
 This repository contains two Android challenges (with their solutions) that
-were published on [calyx.hr][http://calyx.hr]:
+were published on [calyx.hr](http://calyx.hr):
 
 *   [Calyx Android Challenge #1](http://calyx.hr/index.php/uncategorized/calyx-android-challenge-1)
     (the one with RSA)
