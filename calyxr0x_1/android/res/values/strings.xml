@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calyx Challenge</string>
+    <string name="txt_input">Input:</string>
+    <string name="btn_check">Check</string>
+    <string name="txt_correct">Correct!</string>
+    <string name="txt_incorrect">Incorrect</string>
+	<string name="error_invalid_format">Invalid number format</string>
+    
+    <string name="modulus">e0d74d26d1224c79</string>
+    <string name="exponent">10001</string>
+    <string name="target">63616c7978723078</string>
+    
+</resources>

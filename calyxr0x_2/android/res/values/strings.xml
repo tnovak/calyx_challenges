@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calyx Challenge #2</string>
+    <string name="description">Turn on all of the switches!</string>
+    <string name="input_set">Input set: %1$s</string>
+	<string name="menu_reset">Reset</string>
+	<string name="menu_new">New game</string>
+    
+    <string name="title">You won!</string>
+    <string name="message">Input set: %1$s&#8230;\nButtons pressed: %2$s\n</string>
+    
+</resources>
